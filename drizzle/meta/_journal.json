@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762977301352,
+      "tag": "0000_stormy_blade",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762977357712,
+      "tag": "0001_new_omega_flight",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762980210993,
+      "tag": "0002_rapid_texas_twister",
+      "breakpoints": true
+    }
+  ]
+}
