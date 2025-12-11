@@ -263,7 +263,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-slate-700 bg-slate-900/50 backdrop-blur-sm mt-12">
         <div className="container mx-auto px-4 py-6 text-center text-slate-400 text-sm">
-          <p>FloodGuard Delhi - Protecting lives through early flood detection and community alerts</p>
+          <p>FloodSight Delhi - Protecting lives through early flood detection and community alerts</p>
         </div>
       </footer>
     </div>

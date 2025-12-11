@@ -1,8 +1,8 @@
-# FloodGuard Delhi - Web Development MVP
+# FloodSight Delhi - Web Development MVP
 
 ## 📋 Project Overview
 
-FloodGuard Delhi is an AI-powered flood monitoring and early warning system for the National Capital Region (NCR) of Delhi. The web application integrates real-time weather data, IoT sensor readings, social media intelligence, and machine learning predictions to provide comprehensive flood risk assessment and automated alert generation.
+FloodSight Delhi is an AI-powered flood monitoring and early warning system for the National Capital Region (NCR) of Delhi. The web application integrates real-time weather data, IoT sensor readings, social media intelligence, and machine learning predictions to provide comprehensive flood risk assessment and automated alert generation.
 
 **Key Value Proposition:**
 - Real-time flood risk monitoring across 11 Delhi districts
@@ -387,7 +387,7 @@ pnpm install
 
 2. **Open the dashboard:**
    - Navigate to `http://localhost:3000`
-   - You should see the FloodGuard dashboard
+   - You should see the FloodSight dashboard
 
 3. **Test AI Agents:**
    - Click "Run Cycle" in the Agent Controls panel
